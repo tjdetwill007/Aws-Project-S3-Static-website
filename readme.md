@@ -10,7 +10,7 @@
 -   AWS CLIv2
 
 ### Project Architecture:
-![Project Diagram](https://github.com/faysalmehedi/aws-ha-app-deployment-demo/blob/main/ha-web-app-diagram.svg)
+![Project Diagram](https://github.com/tjdetwill007/Aws-Project-S3-Static-website/project_image.png)
 
 ### What I did:
 
