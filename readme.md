@@ -10,7 +10,7 @@
 -   AWS CLIv2
 
 ### Project Architecture:
-![Project Diagram](https://github.com/tjdetwill007/Aws-Project-S3-Static-website/project_image.png)
+![Project Diagram]([https://github.com/tjdetwill007/Aws-Project-S3-Static-website/project_image.png](https://github.com/tjdetwill007/Aws-Project-S3-Static-website/blob/ef95672aad6d0194d9540b5fbd1af1cc9cb2a02a/project_image%20.png))
 
 ### What I did:
 
